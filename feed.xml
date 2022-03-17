@@ -3,12 +3,32 @@
     <title>test999</title>
     <link href="https://simpleloginnewsletteroxus6.github.io/gh-pages/feed.xml" rel="self" />
     <link href="https://simpleloginnewsletteroxus6.github.io/gh-pages" />
-    <updated>2022-03-17T21:29:12+05:30</updated>
+    <updated>2022-03-17T21:49:13+05:30</updated>
     <author>
         <name>sudosadhu</name>
     </author>
     <id>https://simpleloginnewsletteroxus6.github.io/gh-pages</id>
 
+    <entry>
+        <title>adfas</title>
+        <author>
+            <name>sudosadhu</name>
+        </author>
+        <link href="https://simpleloginnewsletteroxus6.github.io/gh-pages/adfas.html"/>
+        <id>https://simpleloginnewsletteroxus6.github.io/gh-pages/adfas.html</id>
+
+        <updated>2022-03-17T21:49:13+05:30</updated>
+            <summary>
+                <![CDATA[
+                    asdfasdfasdfasdfas
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>asdfasdfasdfasdfas</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>4 th post </title>
         <author>
